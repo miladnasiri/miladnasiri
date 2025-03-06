@@ -18,7 +18,7 @@ Experienced AI and Computer Vision specialist with expertise in digital twin dev
 - Developed health monitoring and diagnostic systems with 94.66% accuracy
 
 ## Current Focus
-Advancing Generative AI and RAG technologies as an experienced member and attending several European-funded research projects.
+Advanced computer vision data analysis and POC development through active participation in several European-funded research projects.
 
 ## Certifications
 - CAMP (Certified Associate in Project Management)
