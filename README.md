@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Milad Nasiri</h1>
   <h3>Senior Computer Vision Engineer & AI/ML Expert</h3>
-  <p>Lead Contributor to European-funded SAMOTHRACE Research Initiative</p>
+  <p>Lead Contributor to the European-funded SAMOTHRACE Research Initiative</p>
 </div>
 
 ## Professional Profile
-Experienced AI and Computer Vision specialist focused on microelectronics, microsystems, and digital transformation. Strategic leader in Generative AI, RAG technologies, and scalable solutions for Industry, Healthcare, Energy, and Environmental sectors.
+Experienced AI and Computer Vision specialist with expertise in digital twin development, machine learning pipeline creation, and digital transformation. A strategic leader in Generative AI, Retrieval-Augmented Generation (RAG) technologies, and the design of scalable solutions for industries including Healthcare, Rescue, and Environmental sectors.
 
 ## Core Expertise
 - 🧠 **AI & ML**: Computer Vision, EfficientNet, GANs, Signal Analysis
@@ -14,15 +14,12 @@ Experienced AI and Computer Vision specialist focused on microelectronics, micro
 
 ## Key Achievements
 - Engineered EfficientNet models with 92% accuracy in image classification
-- Implemented ML optimization frameworks with 25% efficiency improvement
-- Developed 94.66% accurate health monitoring and diagnostic systems
+- Implemented ML optimization frameworks with a 25% efficiency improvement
+- Developed health monitoring and diagnostic systems with 94.66% accuracy
 
 ## Current Focus
-Advancing Generative AI and RAG technologies within the SAMOTHRACE ecosystem.
+Advancing Generative AI and RAG technologies as a member of a European-funded research group.
 
 <div align="center">
-  <p>
-    <i>Rome, Italy • European Permanent Residence</i><br>
-    <code>miladnassiri92@gmail.com</code> • <code>+1 778-927-1614</code> • <code>+39 324-667-1614</code>
-  </p>
+  <p></p>
 </div>
