@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Milad Nasiri</h1>
-  <h3>Senior Computer Vision Engineer & AI/ML Expert</h3>
-  <p>Lead Contributor to the European-funded SAMOTHRACE Research Initiative</p>
+  <h3> Computer Vision Engineer & AI/ML Expert & Project management  </h3>
+  <p> Contributor to the European-funded  Research Initiative</p>
 </div>
 
 ## Professional Profile
@@ -18,8 +18,11 @@ Experienced AI and Computer Vision specialist with expertise in digital twin dev
 - Developed health monitoring and diagnostic systems with 94.66% accuracy
 
 ## Current Focus
-Advancing Generative AI and RAG technologies as a member of a European-funded research group.
+Advancing Generative AI and RAG technologies as an experienced member and attending several European-funded research projects.
 
+## Certifications
+- CAMP (Certified Associate in Project Management)
+  
 <div align="center">
   <p></p>
 </div>
