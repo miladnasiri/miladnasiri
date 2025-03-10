@@ -34,8 +34,8 @@ Advanced computer vision data analysis and POC development through active partic
 * Business Intelligence Analyst – Udemy
 
 ## Contact
-📧 miladnassiri92@gmail.com | 📞 +1 778-927-1614  
-🔗 LinkedIn: Miladnasiri | 🔗 GitHub: Miladnasiri | 📍 Vancouver, BC, Canada
+📧 miladnassiri92@gmail.com |   
+🔗 LinkedIn: Miladnasiri | 🔗 GitHub: Miladnasiri | 
 
 ## Languages
 English (Advanced) | Italian (Intermediate) | Persian (Native Proficiency)
