@@ -6,6 +6,7 @@ Contributor to the European-funded Research Initiative
 Experienced Full Stack Developer and AI/Computer Vision specialist with expertise in designing and implementing scalable web and software solutions using .NET technologies. Skilled in developing end-to-end applications, machine learning pipelines, and digital transformation projects. Proven track record in integrating Generative AI and Retrieval-Augmented Generation (RAG) technologies into full-stack systems across Healthcare, Rescue, and Environmental sectors. Proficient in SQL, database design, Power BI, and reporting automation, with a solid foundation in data modeling and back-end development.
 
 ## Core Expertise
+* Full Stack Development: .NET (C#), ASP.NET Core, MVC, Web API, RESTful Services, Frontend Integration
 * 🧠 **AI & ML**: Computer Vision, EfficientNet, GANs, Signal Analysis
 * **Python** | **Docker** | **Azure** | **CI/CD** | **MLOps**
 * **PyTorch** | **TensorFlow** | **MATLAB** | **SQL**
